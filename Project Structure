@@ -1,0 +1,7 @@
+saloon_ticketing_system/
+│
+├── main.py                # Main application file
+├── database.py            # Database handling
+├── gui.py                 # GUI components
+├── ticket.py              # Ticket generation
+└── requirements.txt       # Required libraries
