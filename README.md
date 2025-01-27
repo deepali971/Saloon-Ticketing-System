@@ -9,7 +9,7 @@ The Saloon Ticketing System is a Python-based application that simplifies the ti
   - Facial - ₹350
 - Ticket Generation:
   - Generates a unique ticket ID for each transaction.
-  - Includes customer name, selected services, and total payable amount.![step1-login](https://github.com/user-attachments/assets/d5cb0a4c-19c1-473b-b491-529c262b8e60)
+  - Includes customer name, selected services, and total payable amount.
 
 - Real-Time Database Updates: Saves ticket information into an SQL database:
   - Customer Name
