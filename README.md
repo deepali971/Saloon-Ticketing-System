@@ -1,7 +1,4 @@
-
-
-#Saloon Ticketing System
-
+# Saloon Ticketing System
 The Saloon Ticketing System is a Python-based application that simplifies the ticketing and customer service process for saloons. By combining an intuitive graphical user interface (GUI) with an SQL-based backend, this system allows saloon owners to efficiently handle customer requests, generate service tickets, and maintain real-time transaction records.
 
 ## Features
@@ -12,7 +9,8 @@ The Saloon Ticketing System is a Python-based application that simplifies the ti
   - Facial - ₹350
 - Ticket Generation:
   - Generates a unique ticket ID for each transaction.
-  - Includes customer name, selected services, and total payable amount.
+  - Includes customer name, selected services, and total payable amount.![step1-login](https://github.com/user-attachments/assets/d5cb0a4c-19c1-473b-b491-529c262b8e60)
+
 - Real-Time Database Updates: Saves ticket information into an SQL database:
   - Customer Name
   - Ticket ID
@@ -43,9 +41,14 @@ The Saloon Ticketing System is a Python-based application that simplifies the ti
 
 ## Screenshots
 Include screenshots of:
-- Login Page  
+- Login Page
+ ![step1-login](https://github.com/user-attachments/assets/d5cb0a4c-19c1-473b-b491-529c262b8e60)
+
 - Service Selection Screen  
-- Generated Ticket  
+ ![step2-generating ticket](https://github.com/user-attachments/assets/6914b845-70a2-432a-ad74-69ee5bcc6c8f)
+
+- Generated Ticket
+ ![step3-ticket generated](https://github.com/user-attachments/assets/9d52e460-9b9f-47db-b690-e878bd35dc38)
 
 ## Future Enhancements
 - Add dynamic management for services (add/update/remove).
@@ -53,6 +56,5 @@ Include screenshots of:
 - Implement password hashing for enhanced security.
 - Provide options for exporting tickets as PDFs.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
 
